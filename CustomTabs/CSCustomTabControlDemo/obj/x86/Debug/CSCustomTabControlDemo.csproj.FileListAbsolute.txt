@@ -1,0 +1,11 @@
+C:\Users\TheSphinx\Desktop\CustomTabs\CSCustomTabControlDemo\bin\Debug\CSCustomTabControlDemo.exe
+C:\Users\TheSphinx\Desktop\CustomTabs\CSCustomTabControlDemo\bin\Debug\CSCustomTabControlDemo.pdb
+C:\Users\TheSphinx\Desktop\CustomTabs\CSCustomTabControlDemo\bin\Debug\JacksonSoft.CustomTabControl.dll
+C:\Users\TheSphinx\Desktop\CustomTabs\CSCustomTabControlDemo\bin\Debug\JacksonSoft.CustomTabControl.pdb
+C:\Users\TheSphinx\Desktop\CustomTabs\CSCustomTabControlDemo\obj\x86\Debug\CSCustomTabControlDemo.csprojAssemblyReference.cache
+C:\Users\TheSphinx\Desktop\CustomTabs\CSCustomTabControlDemo\obj\x86\Debug\CSCustomTabControlDemo.MainForm.resources
+C:\Users\TheSphinx\Desktop\CustomTabs\CSCustomTabControlDemo\obj\x86\Debug\CSCustomTabControlDemo.csproj.GenerateResource.cache
+C:\Users\TheSphinx\Desktop\CustomTabs\CSCustomTabControlDemo\obj\x86\Debug\CSCustomTabControlDemo.csproj.CoreCompileInputs.cache
+C:\Users\TheSphinx\Desktop\CustomTabs\CSCustomTabControlDemo\obj\x86\Debug\CSCustomTabControlDemo.csproj.CopyComplete
+C:\Users\TheSphinx\Desktop\CustomTabs\CSCustomTabControlDemo\obj\x86\Debug\CSCustomTabControlDemo.exe
+C:\Users\TheSphinx\Desktop\CustomTabs\CSCustomTabControlDemo\obj\x86\Debug\CSCustomTabControlDemo.pdb

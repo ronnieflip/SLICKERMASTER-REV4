@@ -1,0 +1,11 @@
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControlDemo\bin\Debug\VBCustomTabControlDemo.exe
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControlDemo\bin\Debug\VBCustomTabControlDemo.pdb
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControlDemo\bin\Debug\Jacksonsoft.CustomTabControl.dll
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControlDemo\bin\Debug\Jacksonsoft.CustomTabControl.pdb
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControlDemo\obj\x86\Debug\VBCustomTabControlDemo.vbprojAssemblyReference.cache
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControlDemo\obj\x86\Debug\VBCustomTabControlDemo.MainForm.resources
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControlDemo\obj\x86\Debug\VBCustomTabControlDemo.vbproj.GenerateResource.cache
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControlDemo\obj\x86\Debug\VBCustomTabControlDemo.vbproj.CoreCompileInputs.cache
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControlDemo\obj\x86\Debug\VBCustomTabControlDemo.vbproj.CopyComplete
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControlDemo\obj\x86\Debug\VBCustomTabControlDemo.exe
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControlDemo\obj\x86\Debug\VBCustomTabControlDemo.pdb

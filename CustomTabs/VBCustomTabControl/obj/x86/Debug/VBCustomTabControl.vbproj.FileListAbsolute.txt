@@ -1,0 +1,14 @@
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControl\bin\Debug\Jacksonsoft.CustomTabControl.pdb
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControl\obj\x86\Debug\VBCustomTabControl.vbproj.CoreCompileInputs.cache
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControl\obj\x86\Debug\Jacksonsoft.CustomTabControl.dll
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControl\obj\x86\Debug\Jacksonsoft.CustomTabControl.pdb
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControl\obj\x86\Debug\VBCustomTabControl.vbproj.CopyComplete
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControl\bin\Debug\JacksonSoft.snk
+C:\Users\TheSphinx\Desktop\CustomTabs\VBCustomTabControl\obj\x86\Debug\VBCustomTabControl.vbprojAssemblyReference.cache
+F:\Coding\SLICKERMASTER-REV4\CustomTabs\VBCustomTabControl\bin\Debug\JacksonSoft.snk
+F:\Coding\SLICKERMASTER-REV4\CustomTabs\VBCustomTabControl\bin\Debug\Jacksonsoft.CustomTabControl.pdb
+F:\Coding\SLICKERMASTER-REV4\CustomTabs\VBCustomTabControl\obj\x86\Debug\VBCustomTabControl.vbprojAssemblyReference.cache
+F:\Coding\SLICKERMASTER-REV4\CustomTabs\VBCustomTabControl\obj\x86\Debug\VBCustomTabControl.vbproj.CoreCompileInputs.cache
+F:\Coding\SLICKERMASTER-REV4\CustomTabs\VBCustomTabControl\obj\x86\Debug\VBCustomTabControl.vbproj.CopyComplete
+F:\Coding\SLICKERMASTER-REV4\CustomTabs\VBCustomTabControl\obj\x86\Debug\Jacksonsoft.CustomTabControl.dll
+F:\Coding\SLICKERMASTER-REV4\CustomTabs\VBCustomTabControl\obj\x86\Debug\Jacksonsoft.CustomTabControl.pdb

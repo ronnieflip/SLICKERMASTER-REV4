@@ -1,0 +1,6 @@
+C:\Users\TheSphinx\Desktop\CustomTabs\CustomTabControl\bin\Debug\JacksonSoft.CustomTabControl.dll
+C:\Users\TheSphinx\Desktop\CustomTabs\CustomTabControl\bin\Debug\JacksonSoft.CustomTabControl.pdb
+C:\Users\TheSphinx\Desktop\CustomTabs\CustomTabControl\obj\x86\Debug\CustomTabControl.csprojAssemblyReference.cache
+C:\Users\TheSphinx\Desktop\CustomTabs\CustomTabControl\obj\x86\Debug\CustomTabControl.csproj.CoreCompileInputs.cache
+C:\Users\TheSphinx\Desktop\CustomTabs\CustomTabControl\obj\x86\Debug\JacksonSoft.CustomTabControl.dll
+C:\Users\TheSphinx\Desktop\CustomTabs\CustomTabControl\obj\x86\Debug\JacksonSoft.CustomTabControl.pdb
