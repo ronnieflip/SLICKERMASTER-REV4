@@ -7,3 +7,6 @@ This is a PoC for the NSA Hacking Tool __UnitedRake__, basically it's a complex 
 
 I'm zipping the 'Flag' folder because GitHub doesn't allow more than 100 files to upload, you just need to extract the entire folder inside the 'Debug' project folder and/or 'Release'.
 
+## Some References are missed?
+
+I tried to create the GUI closer to the original project so I used a custom TabControl, if visual studio can't find the .DLL just add a reference to the project and select the DLL 'Jacksonsoft.CustomTabControl.dll' from the debug folder... or choose the reference from the shared project of the custom listview that should be inside the main solution.
