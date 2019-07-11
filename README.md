@@ -10,3 +10,10 @@ I'm zipping the 'Flag' folder because GitHub doesn't allow more than 100 files t
 ## Some References are missed?
 
 I tried to create the GUI closer to the original project so I used a custom TabControl, if visual studio can't find the .DLL just add a reference to the project and select the DLL 'Jacksonsoft.CustomTabControl.dll' from the debug folder... or choose the reference from the shared project of the custom listview that should be inside the main solution.
+
+## Here's the original NSA project
+![UnitedRake img1](Screenshots/unitedrake-modules.jpg)
+![UnitedRake img2](Screenshots/unitedrake-modules-1.jpg)
+
+## And here's how this project looks like
+![Demo SlikerMaster](Screenshots/SlikerM.jpg)
